@@ -14,4 +14,4 @@ Um projeto que veio na mente de criar, como uma espécie de [Simsimi](https://si
 O meu mais recente projeto, embora pareça simples a interface e os input, ele requer uma lógica mais complexa na qual eu ainda não desenvolvi por completo. Por isso, ele apenas é capaz de conseguir o alcance total de dias caso começe no começo do ano (Dia 1 e Mês 1) até a data mais recente. **Em desenvolvimento** para mais meses e correções de bugs assim espero.
 
 # Objetivo
-Aprendizado primeiramente! E quem saiba no futuro um aplicativo realmente útil para o dia a dia, que seja simples e rápido de acessar, com um menu que contenha várias utilidades para variadas tarefas
+Aprendizado primeiramente! E quem saiba no futuro um aplicativo realmente útil para o dia a dia, que seja simples e rápido de acessar, com um menu que contenha várias utilidades para variadas tarefas. 
